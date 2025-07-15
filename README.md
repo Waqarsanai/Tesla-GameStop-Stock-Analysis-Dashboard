@@ -30,15 +30,3 @@ This dashboard visualizes:
 - 📂 Output formatted for export and display
 
 ---
-
-
----
-
-## 📥 Getting Started
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/yourusername/tesla-gamestop-dashboard.git
-   cd tesla-gamestop-dashboard
-
-
